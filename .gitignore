@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.env*
+private_inputs/
+.DS_Store

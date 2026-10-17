@@ -1,0 +1,12 @@
+{
+  "validation_date": "2026-10-16",
+  "scope": "Saved-output verification; no models refitted in this check",
+  "verified_completed_runs": 29,
+  "additional_round_completed_runs": 19,
+  "metric_checks_passed": true,
+  "probability_reassignment_checks_passed": true,
+  "source_hash_checks_passed": true,
+  "verification_failures": 0,
+  "new_model_fits": 0,
+  "data_in_repository": false
+}

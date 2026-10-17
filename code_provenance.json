@@ -1,0 +1,50 @@
+[
+  {
+    "function": "find_file",
+    "original_file": "analysis_helper.py",
+    "original_line_start": 30,
+    "original_line_end": 37,
+    "extraction": "unchanged",
+    "source_segment_sha256": "ae366da90bd1f7e17657ded540fb51e462ab3d2e189d1359c9c9ca69ce2c888a"
+  },
+  {
+    "function": "source_checks",
+    "original_file": "analysis_helper.py",
+    "original_line_start": 53,
+    "original_line_end": 61,
+    "extraction": "unchanged",
+    "source_segment_sha256": "493f511e5ae1c301ce5c18dd78e40aee21c1efa8ba67c4c150612864738e20a2"
+  },
+  {
+    "function": "choose2",
+    "original_file": "analysis_helper.py",
+    "original_line_start": 64,
+    "original_line_end": 66,
+    "extraction": "unchanged",
+    "source_segment_sha256": "929b1f05763e11fa70ee568a9bb6b83b3030f4bb5ff7abc091d5606b19ad3e4d"
+  },
+  {
+    "function": "compare",
+    "original_file": "analysis_helper.py",
+    "original_line_start": 69,
+    "original_line_end": 78,
+    "extraction": "unchanged",
+    "source_segment_sha256": "b42725315f6fa4c833f147826ef01338e6d3d8e474491bc4b460c30a502cbae7"
+  },
+  {
+    "function": "assignments",
+    "original_file": "analysis_helper.py",
+    "original_line_start": 81,
+    "original_line_end": 83,
+    "extraction": "unchanged",
+    "source_segment_sha256": "0070dcae4f4469eceed429c8d788f347e6f14c1abc89e03de8830f7c7a555c5d"
+  },
+  {
+    "function": "verify_runs",
+    "original_file": "analysis_helper.py",
+    "original_line_start": 86,
+    "original_line_end": 112,
+    "extraction": "unchanged",
+    "source_segment_sha256": "3d8e5c308ff9c957e2578fd003a011b801548f617cd36f8058ad86da02f3e815"
+  }
+]
